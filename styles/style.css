@@ -399,7 +399,10 @@
 
 .footer__column-link {
   color: white;
+  display: flex;
   text-decoration: none;
+  column-gap: 10px;
+  align-items: center;
 }
 
 .footer__social-icon {
