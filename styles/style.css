@@ -309,13 +309,13 @@
 
 .membership__steps {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   flex-direction: row;
   list-style-type: none;
   padding: 0;
   margin: 100px 0 0;
+  gap: 40px;
 
-  
 }
 
 .step {
